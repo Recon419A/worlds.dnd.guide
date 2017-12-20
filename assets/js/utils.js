@@ -72,7 +72,8 @@ var splashes = [
 "Those three high-tier wizards will kick my butt, but if I kill them I can level up...",
 "You know that move from Dumb and Dumber where the guy pulls the other guy's heart out and puts it in a to-go bag? Well, I do that.",
 "I force him to eat oranges until he dies from too much Vitamin C.",
-"Why are we trying to negotiate with the king again? I throw my axe at him."
+"Why are we trying to negotiate with the king again? I throw my axe at him.",
+"Can't dodge the the ground so I parry it instead."
 ];
 
 var alignments = ["left", "center", "right", "bottom", "top"]
