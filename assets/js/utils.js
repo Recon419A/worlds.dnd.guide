@@ -65,7 +65,14 @@ var splashes = [
 "This is why you don't get in deep with the horse mafia.",
 "I would like to escort the lich out of the room, please.",
 'DM: Alright, they pull it out <br /> Me: I pull mine out as well and say "Mine&#39;s longer!"',
-'DM: Perilous Situation <br /> Me: Hilarious Quip'
+'DM: Perilous Situation <br /> Me: Hilarious Quip',
+'Roll sleight of hand, with disadvantage, because I fucking hate you.',
+'It’s like my momma always said: if you just keep hitting something, it’ll stop hurting you.',
+"I yell 'you'll never take me alive' and then cast Fireball on myself.",
+"Those three high-tier wizards will kick my butt, but if I kill them I can level up...",
+"You know that move from Dumb and Dumber where the guy pulls the other guy's heart out and puts it in a to-go bag? Well, I do that.",
+"I force him to eat oranges until he dies from too much Vitamin C.",
+"Why are we trying to negotiate with the king again? I throw my axe at him."
 ];
 
 var alignments = ["left", "center", "right", "bottom", "top"]
