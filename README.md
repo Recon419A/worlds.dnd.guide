@@ -1,8 +1,9 @@
 # worlds.dnd.guide
 Hosting for the [worlds.dnd.guide](http://worlds.dnd.guide) website.
+***
 
 # Contributing
-*Please note that content submissions should be constructive and useful. Content that is off-topic, low effort or detracts from the site will not be considered.
+ *Please note that content submissions should be constructive and useful. Content that is off-topic, low effort or detracts from the site will not be considered.*
 
 
 Contributions to the site are welcome and encouraged! To submit new content, fork the repository and make your edits. Then, submit a pull request and a site admin will review it. If it follows the guidelines above, it will be accepted and you'll see it on the site within a week!
