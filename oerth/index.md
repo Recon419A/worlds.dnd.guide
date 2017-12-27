@@ -13,3 +13,5 @@ Here, they have been sorted by continent. Click one of the links below to jump t
  - [Siobhragan](siobhragan/)
  - [Fuar](fuar/)
  - [Ancient Nations](ancients/)
+
+Oerth was created by *Cedric Blackmore*. All credit as well as intellectual property rights regarding Oerth belongs to him.
