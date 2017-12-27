@@ -7,11 +7,11 @@ Oerth is a world past its prime. The Age of Gods forgotten, the Age of Magic fal
 Oerth has five distinct continents, each with more than thirty individual nations.
 Here, they have been sorted by continent. Click one of the links below to jump to that continent's page.
 
- - [Sgotha](sgotha/)
- - [Dorchada](dorchada/)
- - [Bristei](bristei/)
- - [Siobhragan](siobhragan/)
- - [Fuar](fuar/)
- - [Ancient Nations](ancients/)
+ - [Sgotha](sgotha)
+ - [Dorchada](dorchada)
+ - [Bristei](bristei)
+ - [Siobhragan](siobhragan)
+ - [Fuar](fuar)
+ - [Ancient Nations](ancients)
 
 Oerth was created by *Cedric Blackmore*. All credit as well as intellectual property rights regarding Oerth belongs to him.
