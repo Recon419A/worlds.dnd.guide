@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+[< Back to Index](/domum)
+
+***
 
 # The States of Domum
 Domum is populated by many different peoples. These nations all have one thing in common: The inner sea.
@@ -11,9 +14,9 @@ Today, any group not part of the Inner Sea treaty is considered barbaric, and no
 ***
 
 ### States by Border Color
-<br>
+
 <img src="/assets/4kBright - StateBorders.png" class="img-thumbnail" alt="Aerial Map of Domum" width="50%"/>
-<br>
+
 Click on a nation in the links below to jump to that nation's description.
  - [Orange - Ishen](#Ishen)
  - [Blue - Cierrovanadia](#Vanadia)
@@ -33,7 +36,8 @@ Extra Locations:
 ***
 
 <h3 id="Ishen">Ishen</h3>
-The Ishendi People, referred to as “An Ishen Man”, "An Ishendi", plural "Those Ishendi", “Those Ishen People”
+The Ishendi People, referred to as “An Ishen Man”, "An Ishendi", plural "Those Ishendi"
+
 ##### History and Geography
 Ishen as a civilization is proud, based heavily on ancestral stories. According to legend, a tiefling named Seraph, who had rare, feathered wings fled the mainland to the Island of Ishen, and there established the nation by revolutionizing the natives there.
 Seraph instituted a Council among the men he ruled, who would lead the nation in general. However, there
@@ -41,6 +45,7 @@ is a ruler called the “Seraph”. These Seraphs are more priests than anything
 laws to the council and himself handling military, religious, or inter-political issues in the nation.
 
 __Hierarchy__
+
  - Seraph
  - Councilmembers
  - Male Tieflings
@@ -49,6 +54,7 @@ __Hierarchy__
  - Slaves
 
 __Misc.__
+
  - Regions of Ishen are immediately delegated to one of the 8 councilmembers.
  - Use of oriental weaponry with roman battle tactics.
 
@@ -63,10 +69,12 @@ __Popular Names__
     - Seraph Soza
 
 __Cuisine__
+
 While willing to make “normal” food for outsiders,  in their own food they use many noodles, vegetables, and seafood.
 Beans of any kind are seen as inedible.
 
 __Government and Current Relations__
+
  - The Ishendi Government is as instituted by Seraph, with 9 members.
  - 8 are elder tieflings and the ninth is the current ruling Seraph.
  - Society is essentially roman, with an oriental skin on it.
@@ -81,6 +89,7 @@ __Government and Current Relations__
 <h3 id="Vanadia">Vanadia</h3>
 
 __History and Geography__
+
 The Vanadians are more a loose connection of city-states - each led by a very rich sultan.
 They have had a reputation as fine artisans for thousands of years, and has been dubbed the “Land of Immortals” for their above-average medicine and propensity for time magic.
 They tend to detest dwarves and halflings for their opinions of the races' stupidity and lack of ambition, respectively.
@@ -106,6 +115,7 @@ of maturity for a given race due to the effect of time manipulation on societal 
 
 
 __Popular Names__
+
  - Male:
      - Nazeem Sada-Him
      - Mohamed Sikh
@@ -116,6 +126,7 @@ __Popular Names__
      - Demoira Fafsa
 
 __Cuisine__
+
 Food is expensive here due to the abundant time magic able to freeze the time of hunger and thirst.
 Plain bread and water is available to travelers at inns.
 
@@ -215,15 +226,9 @@ The war was started approximately 15 years before over a minor border dispute th
 ***
 
 <h3 id="Hohkirch">Hohkirch</h3>
-Singular "The Kirk" plural "Kirks". Formal "Hohkirchman/men"
-</div>
-</div>
-<div class="row">
-<div class="col-sm-5">
-<p>
-<u><center>History and Geography</center></u>
-</p>
-<p>
+
+__History and Geography__
+
 The second oldest state in the world, Hohkirch is a Republic and Representative Democracy first and foremost,
 but uses direct democracy for the purpose of creating laws. Citizens have passed laws making voting mandatory.
 Over thousands of years, voters have decided to support the betterment of the people as a whole instead of the
@@ -231,107 +236,75 @@ betterment of the person, leading to some... questionable laws. The people, howe
 with the whole thing. Hohkirch has focused on production and improving their economy after it crashed several
 years ago, and as a result have adopted a medieval form of communism. Strangely enough, the people make it work,
 and everyone is quite happy with this economic setup.
-<br />
+
 Historically, Kirks have hated elves because of their percieved fragility, but embrace orcs
 and their cousin races because of their hardiness.
-</p>
-</div>
-<div class="col-sm-3">
-<p>
-<center>
-<u> Hierarchy </u>
 
-<br />
-Voting Citizens
-<br />
-Citizens (Underage)
-<br />
-Government Agents
-<br />
-Outsiders
-<br />
-Slaves
-<br />
+__Slavery__
+Slavery was recently outlawed in Hohkirch, causing some unrest in the other nations.
+They have released a statement saying they would not apply this to the slaves belonging to visitors,
+yet still this development was seen as radical, setting everyone else on edge.
 
-<div style="padding-top: 10px" />
-<br />
-<u>Goods</u>
+__Hierarchy </u>__
 
-</center>
+ - Voting Citizens
+ - Citizens (Underage)
+ - Government Agents
+ - Outsiders
+
+__Goods<__
+
 Hohkirch is the number one producer of nonmagical weapons and armor in the world.
 Their single-minded passion for progress means they have the most advanced machinery
 and techniques in the world: steam-powered assembly lines.
-<br />
-</p>
-</div>
-<div class="col-sm-4">
-<p>
-<center><u>Popular Names</u></center>
-<br />
-Male: Jacob Weber
-<br />
-Karl Fischer
-<br />
-Lothar Klien
-<br />
-Female: Karen Weber
-<br />
-Liesl Fischer
-<br />
-Lydia Klien
-<br />
+
+__Popular Names__
+  - Male:
+    - Jacob Weber
+    - Karl Fischer
+    - Lothar Klien
+  - Female:
+    - Karen Weber
+    - Liesl Fischer
+    - Lydia Klien
+
 <div style="padding-top: 10px" />
-<center><u>Cuisine</u></center>
+
+__Cuisine__
 Food is simple by choice, mostly hams, bread, and cheese is had here.
 Their strong alcohol is something they take pride in, though; and
 for good reason - it's the best in the world.
-<br />
 
-<center><u>Technology</u></center>
-<br />
+__Technology__
+
 Hohkirch's technology is far beyond any other nation's: they harness steam to create everything
 from robots servants to assembly arms. The steam is produced however they can, from burning coal
 to magic to nuclear fission (facilitated by magic).
-</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-12">
-<p>
-<u>Government and Current Relations</u>
-<br />
+
+__Government and Current Relations__
+
 Leaders are elected by representatives, who are elected by the people. Laws, however, are made
 by the people voting directly. Both types of votes are mandatory. Violation of this law
 is punished by placing the violator in prison until the next vote is called, where if they vote
 on it, they may go free.
-<br />
+
 <div style="padding-top: 10px" />
-<u>War</u>
-<br />
+
+__War__
+
 Hohkirch is currently at war with the Marian Empire over the Mortuary Valley. Their extreme
 industrial capacity means they currently have the upper hand in the war, even though rumor has it that <thead>
 Marians have a trick up their sleeve...
-</thead>
-</p>
-</div>
-</div>
-[Back To Top](#top)
-</div>
 
-<div class="container-fluid">
-<hr>
-<div class="row">
-<div class="col-sm-12">
+[Back To Top](#top)
+
+***
+
 <h3 id="Balhaea">Balhaea</h3>
-<p>Singular "Balhaean", Plural "Balhaeans"</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-5">
-<p>
-<u><center>History and Geography</center></u>
-</p>
-<p>
+Singular "Balhaean", Plural "Balhaeans"
+
+__History and Geography__
+
 These are the essential venetian traders of the world.
 They control the outlets from the inner sea to the ocean,
 and have neutral traders from what seems to be the beginning of time.
@@ -339,396 +312,238 @@ The government is mostly ceremonial nowadays, since the real
 driving force of the nation is the Merchant's Guild, founded
 nearly 2,000 years ago. It's a very free a nation, with very few
 restrictions on religion, race, or freedom of information
-<br />
-<div class="padding-top:10px"></div>
-<center><u>Cities</u></center>
+
+__Cities__
 There is only one major city in Balhaea.
 Named Balhaea City, it’s the pinnacle of security and trade. High walls,
 honest guards, and the lowest crime rate in the world characterize this utopian city.
 Now, if only the taxes were lower...
-</p>
-</div>
-<div class="col-sm-3">
-<p>
-<center>
-<u> Hierarchy </u>
 
-<br />
-Trader's Guild Board
-<br />
-King
-<br />
-State Guard
-<br />
-Citizens
-<br />
-Visitors
-<br />
-Slaves
+__Hierarchy__
 
-<div style="padding-top: 10px" />
-<br />
-<u>The Guild</u>
+ - Trader's Guild Board
+ - King
+ - State Guard
+ - Citizens
+ - Visitors
+ - Slaves
 
-</center>
+__The Guild__
+
 The guild requires a written and oral test for membership, including mathematics and politics.
 Members get either a free property in the city or a reasonable homestead in the countryside as
 well as insurance for guild-sanctioned trades and equipment.
-<br />
-(It is reccomended that the DM make a player roleplay the application, including the
+(It is recommended that the DM make a player roleplay the application, including the
 public speaking and mathematics components.)
 
 
-</p>
-</div>
-<div class="col-sm-4">
-<p>
-<center><u>Popular Names</u></center>
-<br />
-Male: Guillermo Maffei
-<br />
-Francesco Ludovici
-<br />
-Nicolas de Bastion
-<br />
-Female: Julia Maffei
-<br />
-Angela Ludovici
-<br />
-Julia de Bastion
-<br />
-<div style="padding-top: 10px" />
-<center><u>Cuisine</u></center>
+__Popular Names__
+
+ - Male:
+    - Guillermo Maffei
+    - Francesco Ludovici
+    -  Nicolas de Bastion
+ - Female:
+    - Julia Maffei
+    - Angela Ludovici
+    - Julia de Bastion
+
+__Cuisine__
+
 Many mixed dishes - spiced meats and carbs plus fine wine.
 They’re actually famous for their spiced honeyed wine.
 
+__Government and Current Relations__
 
-</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-12">
-<p>
-<u>Government and Current Relations</u>
-<br />
 Balhaea is perfectly neutral - They will sell to everyone and anyone,
 at any time, so long as they can pay. In the entire history of Balhaea,
 there have been zero wars.
-<br />
-<div style="padding-top: 10px"></div>
-<u>Guild Politics</u>
-<br />
-Guild
+
+__Guild Politics__
+
 The merchant’s guild actually controls the city, from the politics to the guards,
 and even regulates properties and businesses.
 Any trader not a part of the guild is wasting his life,
 the benefits are numerous and the drawbacks few.
 The merchant’s guild is in the center of the City of Balhaea as well as the tallest
 building, so it’s impossible to miss.
-</p>
-</div>
-</div>
+
 [Back To Top](#top)
-</div>
-<hr>
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-12">
+
+***
+
 <h3 id="Savant">The Savantid Island</h3>
-<p>The Islanders are referred to as Singular "Savant" or Plural "Savants"</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-5">
-<p>
-<u><center>History and Geography</center></u>
-</p>
-<p>
+The Islanders are referred to as Singular "Savant" or Plural "Savants"
+
+__History and Geography__
+
 Nobody knows how long the savants have existed, and neither do the savants.
-A huge volcano sprouts from this tropical island that spouts fumes 24/7 that
+A huge volcano sprouts from this tropical island that spouts fumes 24/7. These fumes
 make every islander permanently high. As a result, no islander cares much for
 history or learning, instead spending their time living off the land and
 having fun. Even if they leave, the high can stay with a person for anywhere
 from a month to a year after, depending on their constitution.
-</p>
-</div>
-<div class="col-sm-3">
-<p>
-<center>
-<u> Hierarchy </u>
 
-<br />
-People
-<br />
-Animals
-<br />
-Trees
-<br />
-Dirt
+__Hierarchy__
 
-<div style="padding-top: 10px" />
-<br />
-<u>Legend</u>
+ - People
+ - Animals
+ - Trees
+ - Dirt
 
-</center>
+__Legend__
+
 Apparently there are rare magical artifacts in the lava caves, but between the fumes
 and the heat, nobody bothers to find them.
-</p>
-</div>
-<div class="col-sm-4">
-<p>
-<center><u>Popular Names</u></center>
-<br />
-Male: Any
-<br />
-Female: Any
-<br />
-<div style="padding-top: 10px" />
-<center><u>Cuisine</u></center>
+
+__Popular Names__
+ - Male: Any
+ - Female: Any
+
+__Cuisine__
 Tropical Nuts, berries, coconuts, maybe fish or rabbit if they can stumble upon it.
-</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-12">
-<p>
-<u>Government and Current Relations</u>
-<br />
+
+__Government and Current Relations__
+
 Everyone is too high to get organized, but that also means they're
 also too high to get into fights. As a result, people are usually sent
 to this island as a sort of peaceful, kind exile. Most steer clear, though,
 in fear of being trapped forever by the addictive fumes.
-</p>
-</div>
-</div>
+
 [Back To Top](#top)
-</div>
-<hr>
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-12">
+
+***
+
 <h3 id="Heptalithia">Heptalithia</h3>
-<p>Singular "Heptalithian" or Plural "Heptalithians"</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-5">
-<p>
-<u><center>History and Geography</center></u>
-</p>
-<p>
+Singular "Heptalithian" or Plural "Heptalithians"
+
+__History and Geography__
+
 Heptalithia is the oldest nation on the planet, and the only
 one that is older than the Inner Sea Treaty.
-<br />
 It is a harsh land, with mountainous terrian to the west, and a
 long slope down to the Balhaean coastal hills to the east.
 The north is almost completely frozen solid, and the south border
 barely gets even a remotely warm summer.
-<br />
 Native Heptalithians have been and currently are racist towards non-humans,
 but there is a special hate towards tiefilings, who they see as
 evil, insidious freaks of nature.
-</p>
-</div>
-<div class="col-sm-3">
-<p>
-<center>
-<u> Hierarchy </u>
 
-<br />
-Jarls, Combined
-<br />
-High King
-<br />
-Jarls, Individual
-<br />
-Merchantry
-<br />
-Peoples
-<br />
-Peasantry
-<br />
-Slaves
-<br />
-Tieflings
+__Hierarchy__
 
-<div style="padding-top: 10px" />
-<br />
-<u>Religion</u>
+ - Jarls, Combined
+ - High King
+ - Jarls, Individual
+ - Merchantry
+ - Peoples
+ - Peasantry
+ - Slaves
+ - Tieflings
 
-</center>
+__Religion__
+
 While not explicitly banned, the High King and Jarls have been conspiring
 to choke religion out of the country in order to more easily raise resources
 to further their plan of total world domination. This caused a rift with the church,
 and caused Holy Lithium to Split from Heptalithia.
-</p>
-</div>
-<div class="col-sm-4">
-<p>
-<center><u>Popular Names</u></center>
-<br />
-Male: Vladimir Vanovitch
-<br />
-Boris Sokov
-<br />
-Andre Chekov
-<br />
-Female: Natalia Vanovitch
-<br />
-Nadezda Sokov
-<br />
-SJakovine Chekov
-<br />
-<div style="padding-top: 10px" />
-<center><u>Cuisine</u></center>
+
+__Popular Names__
+
+  - Male:
+      - Vladimir Vanovitch  
+      - Boris Sokov
+      - Andre Chekov
+  - Female:
+      - Natalia Vanovitch
+      - Nadezda Sokov
+      - Jakovine Chekov
+
+__Cuisine__
+
 Heptalithian food is characterized by the liberal consumption of very strong alcohol,
 paired with many meat and potato dishes. They also do have a taste for pastries like sweet rolls.
-</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-12">
-<p>
-<u>Government and Current Relations</u>
-<br />
+
+__Government and Current Relations__
+
 The government is run by a high king, with Jarls to mediate directly in each city, which are called holds.
 A yarl may grant a citizen the title of Thane, allowing them special rights over others.
-<br />
 Humans are generally only respected, with some racism about for any others, but especially tieflings.
-</p>
 
-<br />
+__Resources and Magic__
 
-<div style="padding-top: 10px"></div>
-
-<u> Resources and Magic </u>
-<br />
 Heptalithia is the number one <u>and</u> number two exporter of raw resources in the world.
-The reason for this is that in the Merchant's Guild Tally, food is categorized seperately from the
-other resources, and since Heptalithia is the foremost exporter of both, they are marked #1 <em>and</em> #2
+The reason for this is that in the Merchants Guild's Tally, food is categorized separately from the
+other resources, and since Heptalithia is the foremost exporter of both, they are marked as #1 <em>and</em> #2
 in the category's collective.
-<br /><br />
-Heptalithia is also known for it's magic: they have a great knack for creating and using sonic magics and cold magic.
-</div>
-</div>
+Heptalithia is also known for its unique brand of magic: they have a great knack for creating and using sonic magics and cold magic.
+
 [Back To Top](#top)
-</div>
-<hr>
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-12">
+
+***
+
 <h3 id="Holy-Lithium">The Holy Lithian Theocracy</h3>
-<p>The Ishendi People, referred to as “An Ishen Man”, "An Ishendi", plural "Those Ishendi", “Those Ishen People”</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-5">
-<p>
-<u><center>History and Geography</center></u>
-</p>
-<p>
+The Lithian People, referred to as “A Lithian Man”, "A Lithian", plural "Those Lithians", “Those Lithian People”</p>
+
+__History and Geography__
+
 Only 80 years old, Holy Lithium split from Heptalithia due to it's increasing agnosticism.
 Fervently religious, this theorcracy is suspicious of any who are not immediately outward saints,
 which is to say everyone.
-<br />
 Having only recently won independence from Heptalithia, they must build a history
 and legacy from nothing. They have few resources, and treat their citizens almost as slaves,
 all under the veneer of "it's the will of the Gods that we perservere".
-<br />
 Due to their identity as a holy nation of the gods, they despise tieflings for their
 demonic nature, and Orcs/Half-Orcs for their supposed corruption from purity.
 Conversely, they love and accept elves, seeing them as the pinnacle of refined beauty and
 essential grace.
 
-<br />
-<div style="padding-top: 10px"></div>
-<br/>
-</p>
-</div>
-<div class="col-sm-3">
-<p>
-<center>
-<u> Hierarchy </u>
+__Hierarchy__
 
-<br />
-The Pontiff
-<br />
-Bishops
-<br />
-Priests
-<br />
-Sacred Nuns
-<br />
-Followers
-<br />
-Outsiders
-<br />
-Slaves
+ - The Pontiff
+ - Bishops
+ - Priests
+ - Sacred Nuns
+ - Followers
+ - Outsiders
+ - Slaves
 
-<div style="padding-top: 10px" />
-<br />
-<u>Misc.</u>
+__Misc.__
 
-</center>
 They fought not just to preserve their religion, but also
 their holy land. The Lithian Theocracy's entire territory
 contains a higher temple and worship site density than that
 of any city in any other state in the known world.
 
-</p>
-</div>
-<div class="col-sm-4">
-<p>
-<center><u>Popular Names</u></center>
-<br />
-Male: Thomas Godson
-<br />
-Jeremiah Towbin
-<br />
-Joseph Magdalane
-<br />
-Female: Elizabeth Godson
-<br />
-Ana Towbin
-<br />
-Josephine Magdalane
-<br />
-<div style="padding-top: 10px" />
-<center><u>Cuisine</u></center>
+__Popular Names__
+
+ - Male:
+    - Thomas Godson
+    - Jeremiah Towbin
+    - Joseph Magdalane
+ - Female:
+    - Elizabeth Godson
+    - Ana Towbin
+    - Josephine Magdalane
+
+__Cuisine__
+
 Food is scarce for this new nation; with no funds or unique
 resources, cuisine is composed mainly of bread and water -
 if a person is lucky their town's hunter may bring in some fresh
 meat which the villagers all share.
-</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-12">
-<p>
-<u>Government and Current Relations</u>
-<br />
+
+__Government and Current Relations__
+
 Holy Lithium is currently tense, fresh off the revolution from eighty years before.
 Their haste to join the inner sea union caused ripples as well, with their zealous
 and religiously militant ways being the cause of some concern in the rest of the world.
-</p>
-<p>
-<u>Theocracy</u>
+
 The Lithian Theocracy is run by a Pontiff, the current one a human
 named Pontiff Sulhyvan. Below him are the Bishops, which rule with iron
 fists over the cities they won from Heptalithia. Lower down are the priests,
-who sympathise more with the people's plight and are more loving and gentle.
-<br /><br />
+who sympathize more with the people's plight and are more loving and gentle.
 In addition to these are the Sacred Nuns, an all-female organization of cleric-rogues that
-act as the Pontiff's personal guard, and occasionally as an assasination team, for those
+act as the Pontiff's personal guard, and occasionally as an assassination team, for those
 "dear citizens of this glorified, godly nation" which may fall out of line.
-</p>
-</div>
-</div>
+
 [Back To Top](#top)
-</div>
-<hr>
-
-
-</div>
-</div>
-</div>
