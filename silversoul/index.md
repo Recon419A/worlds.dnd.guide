@@ -16,7 +16,7 @@ Silver Soul Gaming
 
 ## Free Stuff
 
-### [Fantastic Worlds: Bridges](bridges_revised.md)
+### [Fantastic Worlds: Bridges](bridges.md)
 
 This supplement delves into the fascinating world of bridges - something so commonplace you might at first ask "Why bother?". Allow us to show you.
 
