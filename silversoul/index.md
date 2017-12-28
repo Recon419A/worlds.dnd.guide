@@ -13,3 +13,12 @@ Good Luck, Have Fun,
 Donald "Lone Wolf" Bronson
 Roleplaying Guru
 Silver Soul Gaming
+
+# Free Stuff
+
+## Fantastic Worlds: Bridges
+
+This supplement delves into the fascinating world of bridges - something so commonplace you might at first ask "Why bother?". Allow us to show you.
+
+[Link](bridges_revised.md)
+
