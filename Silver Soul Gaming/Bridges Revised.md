@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Introduction
 
 Welcome to the first release in the Fantastic Worlds lineup by Silver Soul Gaming. As a veteran game master with more than four thousand hours of role playing experience, here is where I'll share my extensive knowledge of worldbuilding for the benefit of new and old GM's alike. The article that follows is a deep dive into using bridges - that's right, bridges. Used right, even something so apparently straightforward can have great nuance and room for detail. Like all things, specific beats general, and knowing what type of bridge your PCs are going to encounter can make the difference between a cut-and-dry session, or one that really sticks in the mind. Like the future articles in the lineup, this explores not just what setting elements are, but how to use them. It's intended to give you ideas - a quick "something special" to spice up a pursuit or add flavor to a fortress. Odds are, you'll enjoy the ideas this gets swimming in your head. And if you do, we'd love to hear what you come up with - you can reach us at https://silversoulgaming.com/contact/. We're always driven by what you - the fans - want to hear and see in our products. So without further ado, let's get to it.

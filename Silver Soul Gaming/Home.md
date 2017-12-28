@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Silver Soul Gaming
 
 At Silver Soul Gaming, we believe in sharing, just like our parents taught us. To that end, we're not particular about where our free content ends up, as long as it's credited back to us. We're especially proud to have it here, since we're friends with the people behind this site and regularly swap ideas. Friends are awesome, aren't they?
