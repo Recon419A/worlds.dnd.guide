@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Worlds :: dnd.guide</title>
+
+    <!-- Bootstrap Stuff -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+
+    <style>
+
+      html {
+        background-color: #404040;
+      }
+      /* Remove the navbar's default margin-bottom and rounded borders */
+      .navbar {
+        margin-bottom: 0;
+        border-radius: 0;
+      }
+
+      /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+      .row.content {
+        height: auto;
+      }
+
+      /* Set gray background color and 100% height */
+      .sidenav {
+        padding-top: 20px;
+        background-color: #f1f1f1;
+        height: 100%;
+      }
+
+      /* Set black background color, white text and some padding */
+      footer {
+        background-color: #404040;
+        color: #808080;
+        padding-top: 15px;
+        padding-bottom: 15px;
+      }
+
+      .footer-link {
+        color: #808080;
+      }
+
+      .footer-link:hover {
+        color: #808080;
+      }
+
+      /* On small screens, set height to 'auto' for sidenav and grid */
+      @media screen and (max-width: 767px) {
+        .sidenav {
+          height: auto;
+          padding: 15px;
+        }
+        .row.content {height:auto;}
+      }
+
+      .navBarItem {
+        text-align: left;
+        color: black;
+      }
+
+      .navBarItem:hover {
+        text-align: left;
+        color: black;
+      }
+
+      .footer-custom {
+        text-align: center;
+      }
+
+      .jumbotron {
+        border-radius: 0px;
+      }
+
+      .img{
+        float:right;
+        height:auto;
+      } ​
+
+      .text-container {
+        overflow:auto;
+        height:auto;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="jumbotron text-center" id="top masthead">
+      <style id = 'jumboTronBG'>
+        .jumbotron {
+          background-image:
+            linear-gradient(
+              rgba(0, 0, 0, 0.5),
+              rgba(0, 0, 0, 0.5)
+              ),
+              url(/assets/backdrops/1.jpg);
+          background-position: right;
+          color: white; }</style>
+      <h1><a href="http://worlds.dnd.guide"><img class="img-responsive" alt="D&amp;D.guide" src="/assets/DDLogo.png" width="75%"></img></a></h1>
+      <h1><img class="img-responsive" alt="Worlds" src="/assets/WorldsLogo.png" width="25%"></img></h1>
+      <p id="splash" style="margin-top: 2%"></p>
+    </div>
+      <div class="container-fluid text-center row" style="text-align: left">
+          {{ content }}
+      </div>
+      <div class="container-fluid text-center">
+        <footer>
+          <div class="col-sm-12">
+          <p><center>
+            Like what you see? Buy me a coffee!
+            <!-- Paypal Donate Button -->
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+            ">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+            <!-- Paypal Donate Button -->
+          </center></p>
+          <hr />
+          <p style="padding-left: 5px; padding-right: 5px"> Content Copyright © <script type="text/javascript">
+                                  var d = new Date()
+                                  document.write(d.getFullYear())
+                          </script>
+              Nicolas Suarez | <a href="#top" class="footer-link">Back to Top</a>
+              <br />
+              All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+          </p>
+        </div>
+        </footer>
+      </div>
+
+      <script src="/assets/js/utils.js"></script>
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+  </body>
+</html>
